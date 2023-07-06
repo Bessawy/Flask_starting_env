@@ -1,2 +1,2 @@
-# Flask_starting_env
-Provide a proper starting point for flask app (Folder setup, basic packages installed, env variables setup).
+# USEFULL INFO
+python version >=3.8.1, <4.0
